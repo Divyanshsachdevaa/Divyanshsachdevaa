@@ -16,6 +16,7 @@
 - 💬 Ask me about **C++**
 
 - 📫 How to reach me **divyanshxsachdeva@gmail.com**
+[![Spotify](spotify-b5aswxubq-divyanshs-projects-d041006e.vercel.app)](https://open.spotify.com/user/USER_NAME)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
