@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh</h1>
-<h3 align="center">A passionate Android developer aspirant from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshsachdevaa&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshsachdevaa" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **improving DSA**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **REACT**
 
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I’m looking for help with **WEB Development**
 
 - 💬 Ask me about **C++**
 
